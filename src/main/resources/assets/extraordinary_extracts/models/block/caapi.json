@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "extraordinary_extracts:blocks/caapi",
+    "particle": "extraordinary_extracts:blocks/caapi"
+  },
+  "render_type": "cutout"
+}

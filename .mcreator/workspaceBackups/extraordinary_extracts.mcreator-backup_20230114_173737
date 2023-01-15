@@ -1,0 +1,50 @@
+{
+  "mod_elements": [
+    {
+      "name": "Caapi",
+      "type": "plant",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "caapi"
+    },
+    {
+      "name": "AyahuascaEffect",
+      "type": "potioneffect",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ayahuasca_effect"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.extraordinary_extracts.caapi": "Caapi",
+      "effect.extraordinary_extracts.ayahuasca_effect": "Ayahuasca_effect"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "extraordinary_extracts",
+    "modName": "Extraordinary Extracts",
+    "version": "1.0.0",
+    "author": "Tinus, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.tinusj.eemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
